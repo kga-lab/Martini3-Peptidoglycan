@@ -1,1 +1,4 @@
-
+Folder "mesh_structure" contains structure and itp files for a network of peptidoglycan chains.
+There are total 8 chains, each 16 disaccharides long. There are total 2752 CG beads. 
+Each chain has its terminal NAG bonded with its other terminal NAM at periodic boundary to mimic infinitely long chain.   
+The adjacent chains are cross-linked, total number of peptide cross-linkages = 32. 
