@@ -1,6 +1,6 @@
 #include "moltoppar/martini_v3.0.0.itp"
 #include "moltoppar/martini_v3.0.0_solvents_v1.itp"
-#include "moltoppar/glycan.itp"
+#include "moltoppar/glycan_chains8.itp"
 #include "moltoppar/POT.itp"
 
 [ system ]
