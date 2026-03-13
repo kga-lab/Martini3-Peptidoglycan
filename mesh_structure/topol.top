@@ -1,0 +1,14 @@
+#include "moltoppar/martini_v3.0.0.itp"
+#include "moltoppar/martini_v3.0.0_solvents_v1.itp"
+#include "moltoppar/glycan.itp"
+#include "moltoppar/POT.itp"
+
+[ system ]
+; name
+glycan in water
+
+[ molecules ]
+; name        number
+glycan       1
+W           36429
+K                256
